@@ -83,6 +83,8 @@ Power BI Developer | Data Analyst | Business Intelligence
 
 ## 📷 Sample Screenshot Embed
 
+<img width="1152" height="663" alt="image" src="https://github.com/user-attachments/assets/84cf48c2-5668-4325-a99f-ddca8d5bac07" />
 <img width="1168" height="683" alt="image" src="https://github.com/user-attachments/assets/ca6cc069-6a77-4565-891e-ca112d2e3bad" />
 <img width="1150" height="664" alt="image" src="https://github.com/user-attachments/assets/5c6ca463-6794-4fca-9bba-28be48a5a55b" />
+<img width="1151" height="664" alt="image" src="https://github.com/user-attachments/assets/83c71b6b-702f-4334-b9bf-6e1ef19f6191" />
 <img width="1154" height="666" alt="image" src="https://github.com/user-attachments/assets/5fa366c3-f220-4cb6-aa35-6693868a2a68" />
