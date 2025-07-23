@@ -1,6 +1,6 @@
-# 🧪 FDA Adverse Drug Event Analysis (Python + SQL + Power BI)
+# FDA Adverse Drug Event Analysis (Python + SQL + Power BI)
 
-## 📊 Project Summary
+## Project Summary
 
 This is a complete real-world **healthcare analytics project** using publicly available **FDA Adverse Event Reporting System (FAERS)** data.
 
@@ -73,11 +73,11 @@ See `LICENSE` file for details.
 
 ---
 
-## 🙋 About Me
+## 🙋‍♂️ Author
 
-**Gowtham Kumar**  
-Bachelor of Arts | Aspiring Data Analyst | Passionate about Healthcare & SQL Projects  
-📫 Connect: [[LinkedIn Profile](#)](https://www.linkedin.com/in/gowtham-kumar-sirisetti) *(Add when available)*
+**Sirisetti Gowtham Kumar**  
+Power BI Developer | Data Analyst | Business Intelligence  
+🔗 [linkedin.com/in/gowtham-kumar-sirisetti](https://linkedin.com/in/gowtham-kumar-sirisetti)
 
 ---
 
