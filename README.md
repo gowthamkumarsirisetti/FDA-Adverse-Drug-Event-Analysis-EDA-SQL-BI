@@ -29,10 +29,10 @@ Using **Python**, **MySQL**, and **Power BI**, this project extracts, transforms
 ---
 
 ## 📁 Project Structure
-FDA-Drug-Safety-Analytics/
-├── python/ # API, Cleaning, Transformation
-├── sql/ # SQL queries
-├── dashboard/ # Power BI files, screenshots
+FDA-Drug-Safety-Analytics/<br>
+├── python/ # API, Cleaning, Transformation<br>
+├── sql/ # SQL queries<br>
+├── dashboard/ # Power BI files, screenshots<br>
 ├── docs/ # Summary & README
 
 
