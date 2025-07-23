@@ -30,10 +30,11 @@ Using **Python**, **MySQL**, and **Power BI**, this project extracts, transforms
 
 ## 📁 Project Structure
 FDA-Drug-Safety-Analytics/<br>
-├── python/ # API, Cleaning, Transformation<br>
-├── sql/ # SQL queries<br>
-├── dashboard/ # Power BI files, screenshots<br>
-├── docs/ # Summary & README
+├── python - API collection, data cleaning, transformation scripts<br>
+├── sql - MySQL schema, views, triggers, advanced queries<br>
+├── dashboard - Power BI files, screenshots<br>
+├── data/ # Cleaned CSV used for SQL/BI<br>
+├── docs - Summary & README
 
 
 ---
