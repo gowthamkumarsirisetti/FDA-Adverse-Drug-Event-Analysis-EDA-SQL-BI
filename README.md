@@ -1,5 +1,5 @@
 # FDA Adverse Drug Event Analysis (Python + SQL + Power BI)
-
+ 
 ## Project Summary
 
 This is a complete real-world **healthcare analytics project** using publicly available **FDA Adverse Event Reporting System (FAERS)** data.
