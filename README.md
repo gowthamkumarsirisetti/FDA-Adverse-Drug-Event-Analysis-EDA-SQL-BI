@@ -81,9 +81,8 @@ Power BI Developer | Data Analyst | Business Intelligence
 
 ---
 
-## 📷 Sample Screenshot Embed (Optional)
+## 📷 Sample Screenshot Embed
 
-```markdown
-## 💻 Power BI Sample Dashboard
-
-![Summary Page](dashboard/screenshots/dashboard_summary.png)
+<img width="1168" height="683" alt="image" src="https://github.com/user-attachments/assets/ca6cc069-6a77-4565-891e-ca112d2e3bad" />
+<img width="1150" height="664" alt="image" src="https://github.com/user-attachments/assets/5c6ca463-6794-4fca-9bba-28be48a5a55b" />
+<img width="1154" height="666" alt="image" src="https://github.com/user-attachments/assets/5fa366c3-f220-4cb6-aa35-6693868a2a68" />
